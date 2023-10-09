@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import static io.restassured.RestAssured.given;
 
-public class Mesto1Test {
+public class MestoTest {
 
     String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NGQ4YzI4NjQ1M2NkYzAwNDJmZjNmOWQiLCJpYXQiOjE2OTY2MDE0NTcsImV4cCI6MTY5NzIwNjI1N30.09EnF0kmhDuokEeAc3QQOa1QmpibwPMAv_RwXQ1CZpo";
 
